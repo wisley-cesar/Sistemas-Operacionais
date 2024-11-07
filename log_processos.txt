@@ -1,0 +1,210 @@
+Tempo: 0.08s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 79 | CP: 80 | Estado: BLOQUEADO | NES (E/S): 1 | N_CPU (Uso da CPU): 0
+Tempo: 0.08s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 79 | CP: 80 | Estado: PRONTO | NES (E/S): 1 | N_CPU (Uso da CPU): 0
+Tempo: 0.33s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 329 | CP: 330 | Estado: BLOQUEADO | NES (E/S): 2 | N_CPU (Uso da CPU): 0
+Tempo: 0.46s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 462 | CP: 463 | Estado: BLOQUEADO | NES (E/S): 3 | N_CPU (Uso da CPU): 0
+Tempo: 0.62s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 618 | CP: 619 | Estado: BLOQUEADO | NES (E/S): 4 | N_CPU (Uso da CPU): 0
+Tempo: 0.72s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 718 | CP: 719 | Estado: BLOQUEADO | NES (E/S): 5 | N_CPU (Uso da CPU): 0
+Tempo: 0.80s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 801 | CP: 802 | Estado: BLOQUEADO | NES (E/S): 6 | N_CPU (Uso da CPU): 0
+Tempo: 0.91s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 905 | CP: 906 | Estado: BLOQUEADO | NES (E/S): 7 | N_CPU (Uso da CPU): 0
+Tempo: 1.40s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1403 | CP: 1404 | Estado: BLOQUEADO | NES (E/S): 8 | N_CPU (Uso da CPU): 0
+Tempo: 1.43s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1432 | CP: 1433 | Estado: BLOQUEADO | NES (E/S): 9 | N_CPU (Uso da CPU): 0
+Tempo: 1.47s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1466 | CP: 1467 | Estado: BLOQUEADO | NES (E/S): 10 | N_CPU (Uso da CPU): 0
+Tempo: 1.47s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 1466 | CP: 1467 | Estado: PRONTO | NES (E/S): 10 | N_CPU (Uso da CPU): 0
+Tempo: 1.57s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1567 | CP: 1568 | Estado: BLOQUEADO | NES (E/S): 11 | N_CPU (Uso da CPU): 0
+Tempo: 1.61s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1611 | CP: 1612 | Estado: BLOQUEADO | NES (E/S): 12 | N_CPU (Uso da CPU): 0
+Tempo: 1.80s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1800 | CP: 1801 | Estado: BLOQUEADO | NES (E/S): 13 | N_CPU (Uso da CPU): 0
+Tempo: 1.80s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 1800 | CP: 1801 | Estado: PRONTO | NES (E/S): 13 | N_CPU (Uso da CPU): 0
+Tempo: 1.83s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1832 | CP: 1833 | Estado: BLOQUEADO | NES (E/S): 14 | N_CPU (Uso da CPU): 0
+Tempo: 1.90s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 1896 | CP: 1897 | Estado: BLOQUEADO | NES (E/S): 15 | N_CPU (Uso da CPU): 0
+Tempo: 2.04s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2041 | CP: 2042 | Estado: BLOQUEADO | NES (E/S): 16 | N_CPU (Uso da CPU): 0
+Tempo: 2.26s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2259 | CP: 2260 | Estado: BLOQUEADO | NES (E/S): 17 | N_CPU (Uso da CPU): 0
+Tempo: 2.30s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2299 | CP: 2300 | Estado: BLOQUEADO | NES (E/S): 18 | N_CPU (Uso da CPU): 0
+Tempo: 2.38s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2377 | CP: 2378 | Estado: BLOQUEADO | NES (E/S): 19 | N_CPU (Uso da CPU): 0
+Tempo: 2.53s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2531 | CP: 2532 | Estado: BLOQUEADO | NES (E/S): 20 | N_CPU (Uso da CPU): 0
+Tempo: 2.53s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 2531 | CP: 2532 | Estado: PRONTO | NES (E/S): 20 | N_CPU (Uso da CPU): 0
+Tempo: 2.65s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2645 | CP: 2646 | Estado: BLOQUEADO | NES (E/S): 21 | N_CPU (Uso da CPU): 0
+Tempo: 2.66s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2661 | CP: 2662 | Estado: BLOQUEADO | NES (E/S): 22 | N_CPU (Uso da CPU): 0
+Tempo: 2.67s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2666 | CP: 2667 | Estado: BLOQUEADO | NES (E/S): 23 | N_CPU (Uso da CPU): 0
+Tempo: 2.67s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 2666 | CP: 2667 | Estado: PRONTO | NES (E/S): 23 | N_CPU (Uso da CPU): 0
+Tempo: 2.68s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 2676 | CP: 2677 | Estado: BLOQUEADO | NES (E/S): 24 | N_CPU (Uso da CPU): 0
+Tempo: 3.52s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 3516 | CP: 3517 | Estado: BLOQUEADO | NES (E/S): 25 | N_CPU (Uso da CPU): 0
+Tempo: 3.92s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 3916 | CP: 3917 | Estado: BLOQUEADO | NES (E/S): 26 | N_CPU (Uso da CPU): 0
+Tempo: 4.01s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4015 | CP: 4016 | Estado: BLOQUEADO | NES (E/S): 27 | N_CPU (Uso da CPU): 0
+Tempo: 4.04s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4035 | CP: 4036 | Estado: BLOQUEADO | NES (E/S): 28 | N_CPU (Uso da CPU): 0
+Tempo: 4.15s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4150 | CP: 4151 | Estado: BLOQUEADO | NES (E/S): 29 | N_CPU (Uso da CPU): 0
+Tempo: 4.22s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4222 | CP: 4223 | Estado: BLOQUEADO | NES (E/S): 30 | N_CPU (Uso da CPU): 0
+Tempo: 4.40s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4399 | CP: 4400 | Estado: BLOQUEADO | NES (E/S): 31 | N_CPU (Uso da CPU): 0
+Tempo: 4.44s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4437 | CP: 4438 | Estado: BLOQUEADO | NES (E/S): 32 | N_CPU (Uso da CPU): 0
+Tempo: 4.44s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4440 | CP: 4441 | Estado: BLOQUEADO | NES (E/S): 33 | N_CPU (Uso da CPU): 0
+Tempo: 4.45s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4453 | CP: 4454 | Estado: BLOQUEADO | NES (E/S): 34 | N_CPU (Uso da CPU): 0
+Tempo: 4.45s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 4453 | CP: 4454 | Estado: PRONTO | NES (E/S): 34 | N_CPU (Uso da CPU): 0
+Tempo: 4.52s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4520 | CP: 4521 | Estado: BLOQUEADO | NES (E/S): 35 | N_CPU (Uso da CPU): 0
+Tempo: 4.64s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4644 | CP: 4645 | Estado: BLOQUEADO | NES (E/S): 36 | N_CPU (Uso da CPU): 0
+Tempo: 4.67s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4674 | CP: 4675 | Estado: BLOQUEADO | NES (E/S): 37 | N_CPU (Uso da CPU): 0
+Tempo: 4.74s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4737 | CP: 4738 | Estado: BLOQUEADO | NES (E/S): 38 | N_CPU (Uso da CPU): 0
+Tempo: 4.74s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 4737 | CP: 4738 | Estado: PRONTO | NES (E/S): 38 | N_CPU (Uso da CPU): 0
+Tempo: 4.90s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4896 | CP: 4897 | Estado: BLOQUEADO | NES (E/S): 39 | N_CPU (Uso da CPU): 0
+Tempo: 4.91s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4911 | CP: 4912 | Estado: BLOQUEADO | NES (E/S): 40 | N_CPU (Uso da CPU): 0
+Tempo: 4.94s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 4939 | CP: 4940 | Estado: BLOQUEADO | NES (E/S): 41 | N_CPU (Uso da CPU): 0
+Tempo: 5.03s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5031 | CP: 5032 | Estado: BLOQUEADO | NES (E/S): 42 | N_CPU (Uso da CPU): 0
+Tempo: 5.28s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5278 | CP: 5279 | Estado: BLOQUEADO | NES (E/S): 43 | N_CPU (Uso da CPU): 0
+Tempo: 5.28s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 5278 | CP: 5279 | Estado: PRONTO | NES (E/S): 43 | N_CPU (Uso da CPU): 0
+Tempo: 5.29s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5285 | CP: 5286 | Estado: BLOQUEADO | NES (E/S): 44 | N_CPU (Uso da CPU): 0
+Tempo: 5.42s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5418 | CP: 5419 | Estado: BLOQUEADO | NES (E/S): 45 | N_CPU (Uso da CPU): 0
+Tempo: 5.51s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5512 | CP: 5513 | Estado: BLOQUEADO | NES (E/S): 46 | N_CPU (Uso da CPU): 0
+Tempo: 5.51s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 5512 | CP: 5513 | Estado: PRONTO | NES (E/S): 46 | N_CPU (Uso da CPU): 0
+Tempo: 5.59s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5586 | CP: 5587 | Estado: BLOQUEADO | NES (E/S): 47 | N_CPU (Uso da CPU): 0
+Tempo: 5.59s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 5586 | CP: 5587 | Estado: PRONTO | NES (E/S): 47 | N_CPU (Uso da CPU): 0
+Tempo: 5.60s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5599 | CP: 5600 | Estado: BLOQUEADO | NES (E/S): 48 | N_CPU (Uso da CPU): 0
+Tempo: 5.60s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 5599 | CP: 5600 | Estado: PRONTO | NES (E/S): 48 | N_CPU (Uso da CPU): 0
+Tempo: 5.70s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5700 | CP: 5701 | Estado: BLOQUEADO | NES (E/S): 49 | N_CPU (Uso da CPU): 0
+Tempo: 5.98s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 5976 | CP: 5977 | Estado: BLOQUEADO | NES (E/S): 50 | N_CPU (Uso da CPU): 0
+Tempo: 6.01s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 6008 | CP: 6009 | Estado: BLOQUEADO | NES (E/S): 51 | N_CPU (Uso da CPU): 0
+Tempo: 6.01s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 6008 | CP: 6009 | Estado: PRONTO | NES (E/S): 51 | N_CPU (Uso da CPU): 0
+Tempo: 6.08s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 6076 | CP: 6077 | Estado: BLOQUEADO | NES (E/S): 52 | N_CPU (Uso da CPU): 0
+Tempo: 6.47s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 6472 | CP: 6473 | Estado: BLOQUEADO | NES (E/S): 53 | N_CPU (Uso da CPU): 0
+Tempo: 6.54s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 6535 | CP: 6536 | Estado: BLOQUEADO | NES (E/S): 54 | N_CPU (Uso da CPU): 0
+Tempo: 6.62s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 6618 | CP: 6619 | Estado: BLOQUEADO | NES (E/S): 55 | N_CPU (Uso da CPU): 0
+Tempo: 6.69s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 6693 | CP: 6694 | Estado: BLOQUEADO | NES (E/S): 56 | N_CPU (Uso da CPU): 0
+Tempo: 6.83s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 6833 | CP: 6834 | Estado: BLOQUEADO | NES (E/S): 57 | N_CPU (Uso da CPU): 0
+Tempo: 7.43s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 7430 | CP: 7431 | Estado: BLOQUEADO | NES (E/S): 58 | N_CPU (Uso da CPU): 0
+Tempo: 7.50s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 7497 | CP: 7498 | Estado: BLOQUEADO | NES (E/S): 59 | N_CPU (Uso da CPU): 0
+Tempo: 7.62s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 7618 | CP: 7619 | Estado: BLOQUEADO | NES (E/S): 60 | N_CPU (Uso da CPU): 0
+Tempo: 7.71s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 7706 | CP: 7707 | Estado: BLOQUEADO | NES (E/S): 61 | N_CPU (Uso da CPU): 0
+Tempo: 7.75s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 7747 | CP: 7748 | Estado: BLOQUEADO | NES (E/S): 62 | N_CPU (Uso da CPU): 0
+Tempo: 7.90s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 7904 | CP: 7905 | Estado: BLOQUEADO | NES (E/S): 63 | N_CPU (Uso da CPU): 0
+Tempo: 7.92s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 7917 | CP: 7918 | Estado: BLOQUEADO | NES (E/S): 64 | N_CPU (Uso da CPU): 0
+Tempo: 7.92s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 7917 | CP: 7918 | Estado: PRONTO | NES (E/S): 64 | N_CPU (Uso da CPU): 0
+Tempo: 8.01s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 8013 | CP: 8014 | Estado: BLOQUEADO | NES (E/S): 65 | N_CPU (Uso da CPU): 0
+Tempo: 8.01s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 8013 | CP: 8014 | Estado: PRONTO | NES (E/S): 65 | N_CPU (Uso da CPU): 0
+Tempo: 8.10s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 8099 | CP: 8100 | Estado: BLOQUEADO | NES (E/S): 66 | N_CPU (Uso da CPU): 0
+Tempo: 8.22s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 8216 | CP: 8217 | Estado: BLOQUEADO | NES (E/S): 67 | N_CPU (Uso da CPU): 0
+Tempo: 8.47s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 8469 | CP: 8470 | Estado: BLOQUEADO | NES (E/S): 68 | N_CPU (Uso da CPU): 0
+Tempo: 8.73s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 8734 | CP: 8735 | Estado: BLOQUEADO | NES (E/S): 69 | N_CPU (Uso da CPU): 0
+Tempo: 8.74s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 8741 | CP: 8742 | Estado: BLOQUEADO | NES (E/S): 70 | N_CPU (Uso da CPU): 0
+Tempo: 8.74s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 8741 | CP: 8742 | Estado: PRONTO | NES (E/S): 70 | N_CPU (Uso da CPU): 0
+Tempo: 8.91s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 8907 | CP: 8908 | Estado: BLOQUEADO | NES (E/S): 71 | N_CPU (Uso da CPU): 0
+Tempo: 9.00s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9003 | CP: 9004 | Estado: BLOQUEADO | NES (E/S): 72 | N_CPU (Uso da CPU): 0
+Tempo: 9.00s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 9003 | CP: 9004 | Estado: PRONTO | NES (E/S): 72 | N_CPU (Uso da CPU): 0
+Tempo: 9.04s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9042 | CP: 9043 | Estado: BLOQUEADO | NES (E/S): 73 | N_CPU (Uso da CPU): 0
+Tempo: 9.06s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9057 | CP: 9058 | Estado: BLOQUEADO | NES (E/S): 74 | N_CPU (Uso da CPU): 0
+Tempo: 9.06s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 9057 | CP: 9058 | Estado: PRONTO | NES (E/S): 74 | N_CPU (Uso da CPU): 0
+Tempo: 9.21s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9211 | CP: 9212 | Estado: BLOQUEADO | NES (E/S): 75 | N_CPU (Uso da CPU): 0
+Tempo: 9.26s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9257 | CP: 9258 | Estado: BLOQUEADO | NES (E/S): 76 | N_CPU (Uso da CPU): 0
+Tempo: 9.28s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9281 | CP: 9282 | Estado: BLOQUEADO | NES (E/S): 77 | N_CPU (Uso da CPU): 0
+Tempo: 9.33s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9331 | CP: 9332 | Estado: BLOQUEADO | NES (E/S): 78 | N_CPU (Uso da CPU): 0
+Tempo: 9.37s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9373 | CP: 9374 | Estado: BLOQUEADO | NES (E/S): 79 | N_CPU (Uso da CPU): 0
+Tempo: 9.48s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9478 | CP: 9479 | Estado: BLOQUEADO | NES (E/S): 80 | N_CPU (Uso da CPU): 0
+Tempo: 9.48s | PID 0: BLOQUEADO >>> PRONTO
+PID: 0 | TP (Tempo de Processamento): 9478 | CP: 9479 | Estado: PRONTO | NES (E/S): 80 | N_CPU (Uso da CPU): 0
+Tempo: 9.53s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9526 | CP: 9527 | Estado: BLOQUEADO | NES (E/S): 81 | N_CPU (Uso da CPU): 0
+Tempo: 9.56s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9564 | CP: 9565 | Estado: BLOQUEADO | NES (E/S): 82 | N_CPU (Uso da CPU): 0
+Tempo: 9.68s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9675 | CP: 9676 | Estado: BLOQUEADO | NES (E/S): 83 | N_CPU (Uso da CPU): 0
+Tempo: 9.72s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9723 | CP: 9724 | Estado: BLOQUEADO | NES (E/S): 84 | N_CPU (Uso da CPU): 0
+Tempo: 9.90s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9896 | CP: 9897 | Estado: BLOQUEADO | NES (E/S): 85 | N_CPU (Uso da CPU): 0
+Tempo: 9.97s | PID 0: EXECUTANDO >>> BLOQUEADO
+PID: 0 | TP (Tempo de Processamento): 9972 | CP: 9973 | Estado: BLOQUEADO | NES (E/S): 86 | N_CPU (Uso da CPU): 0
+Tempo: 10.00s | PID 0 FINALIZADO
+PID: 0 | TP (Tempo de Processamento): 10000 | CP: 10001 | Estado: FINALIZADO | NES (E/S): 86 | N_CPU (Uso da CPU): 0
