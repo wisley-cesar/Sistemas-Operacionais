@@ -3,6 +3,7 @@ import 'dart:math';
 
 class Processo {
   int pid;
+  
   int tempoTotal;
   int tp = 0;
   int cp = 1;
