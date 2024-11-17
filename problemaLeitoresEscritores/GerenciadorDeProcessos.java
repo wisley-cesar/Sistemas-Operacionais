@@ -22,7 +22,7 @@ public class GerenciadorDeProcessos {
 
     public void inicializarProcessos(int quantidade) {
         for (int i = 0; i < quantidade; i++) {
-            int tempoTotal = random.nextInt(10000) + 1000; // Gera tempos aleatórios entre 1000 e 10.000
+            int tempoTotal = random.nextInt(10000) + 1000; 
             processos.add(new Processo(i, tempoTotal));
         }
     }
@@ -50,7 +50,7 @@ public class GerenciadorDeProcessos {
                         System.out.println("Processo PID " + processo.getPid() + " finalizado.");
                     } else if (processo.getEstado().equals("BLOQUEADO")) {
                         System.out.println("Processo PID " + processo.getPid() + " bloqueado.");
-                        if (random.nextInt(100) < 50) { // Chance de desbloqueio
+                        if (random.nextInt(100) < 50) { 
                             processo.setEstado("PRONTO");
                         }
                     } else {
